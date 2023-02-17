@@ -3,7 +3,7 @@ print(miVariable)
 
 miVariable = miVariable + 1
 print(miVariable)
-# incremento con reasignación
+# increment con reassignment
 miVariable += 1
 print(miVariable)
 # miVariable = miVariable - 2

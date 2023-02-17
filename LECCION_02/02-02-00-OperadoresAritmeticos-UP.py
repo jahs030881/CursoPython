@@ -1,7 +1,7 @@
 operandoA = 3
 operandoB = 2
 suma = operandoA + operandoB
-#print('Resultado suma:', suma)
+# print('Resultado suma:', suma)
 print(f'Resultado suma: {suma} ')
 resta = operandoA - operandoB
 print(f'Resultado resta: {resta} ')
